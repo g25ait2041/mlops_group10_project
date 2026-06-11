@@ -24,3 +24,5 @@ if __name__ == "__main__":
     print("Model:", MODEL_NAME)
     print("Text:", TEXT)
     print("Prediction ID:", predict(TEXT))
+    
+
