@@ -23,6 +23,7 @@ jobs:
 
       - name: Run inference
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ secrets.HUGGING_FACE_TOKEN }}
           INPUT_TEXT: ${{ github.event.inputs.input_text }}
+          HF_MODEL_NAME: ishant-ai/mlops-group10-goodreads-genre-classifier
         run: python src/inference.py
