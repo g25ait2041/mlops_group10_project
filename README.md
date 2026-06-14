@@ -18,7 +18,7 @@ An end-to-end MLOps project that trains and deploys a **book genre classificatio
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Model](#model)
 - [Team](#team)
-- [Project Link] (#project-resources)
+- [Project Link](#project-resources)
 ---
 
 ## Project Overview
