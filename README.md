@@ -1,12 +1,7 @@
 # MLOps Group 10 — Goodreads Book Genre Classifier
 
 An end-to-end MLOps project that trains and deploys a **book genre classification model** using the Goodreads dataset and HuggingFace Transformers. The trained model is hosted on HuggingFace Hub and served via a Dockerized inference pipeline, with automated CI through GitHub Actions.
-# Project Links
-Kaggle Notebook	https://www.kaggle.com/code/ishantkulshreshtha/mlops-group10-project
-Hugging Face Model	https://huggingface.co/ishant-ai/mlops-group10-goodreads-genre-classifier
-W&B Dashboard	https://wandb.ai/ishantkul86-iit-j/mlops_group10_project
-W&B Report	https://wandb.ai/ishantkul86-iit-j/mlops_group10_project/reports/MlOps-Group-10-project---VmlldzoxNzE1MDI4Mg
-GHCR (Docker Image)	Package mlops_group10_project · GitHub
+
 
 ---
 
