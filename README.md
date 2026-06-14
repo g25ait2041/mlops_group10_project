@@ -206,6 +206,21 @@ The model is loaded dynamically at runtime via the `HF_MODEL_NAME` environment v
 
 ---
 
+## 🔗 Project Resources
+
+| Platform | Link |
+| :--- | :--- |
+| **Kaggle Notebook** | [View on Kaggle](https://www.kaggle.com/code/ishantkulshreshtha/mlops-group10-project) |
+| **Hugging Face Model** | [View on Hugging Face](https://huggingface.co/ishant-ai/mlops-group10-goodreads-genre-classifier) |
+| **W&B Dashboard** | [View on W&B](https://wandb.ai/ishantkul86-iit-j/mlops_group10_project) |
+| **W&B Report** | [View Report](https://wandb.ai/ishantkul86-iit-j/mlops_group10_project/reports/MlOps-Group-10-project---VmlldzoxNzE1MDI4Mg) |
+| **Docker Image** | [View on GHCR](https://github.com/g25ait2041/mlops_group10_project/pkgs/container/mlops_group10_project) |
+
+## 📄 Documentation
+* **Project Report:** Completed.
+
+--
+
 ## License
 
 This project is for educational purposes. See individual library licenses for dependency terms.
