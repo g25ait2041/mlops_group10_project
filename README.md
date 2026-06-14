@@ -18,7 +18,7 @@ An end-to-end MLOps project that trains and deploys a **book genre classificatio
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Model](#model)
 - [Team](#team)
-
+- [Project Link] (#project-resources)
 ---
 
 ## Project Overview
@@ -201,7 +201,7 @@ The model is loaded dynamically at runtime via the `HF_MODEL_NAME` environment v
 
 ---
 
-## 🔗 Project Resources
+## Project Resources
 
 | Platform | Link |
 | :--- | :--- |
@@ -211,7 +211,7 @@ The model is loaded dynamically at runtime via the `HF_MODEL_NAME` environment v
 | **W&B Report** | [View Report](https://wandb.ai/ishantkul86-iit-j/mlops_group10_project/reports/MlOps-Group-10-project---VmlldzoxNzE1MDI4Mg) |
 | **Docker Image** | [View on GHCR](https://github.com/g25ait2041/mlops_group10_project/pkgs/container/mlops_group10_project) |
 
-## 📄 Documentation
+## Documentation
 * **Project Report:** Completed.
 
 --
